@@ -1,2 +1,2 @@
 # crowdfunding
-Decentralized crowdfunding website built on blockchain technology , website eliminates the need for intermediaries and enhance transparency.
+Decentralized crowdfunding website built on blockchain technology , Platform eliminates the need for intermediaries and enhance transparency.
